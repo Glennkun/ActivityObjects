@@ -9,7 +9,7 @@ const userDataWithImages = [
     nickname: 'kap',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/jj.jpg'), // Import the local image
+    image: require('./assets/jj.jpg'), 
   },
   {
     firstName: 'Junrey',
@@ -17,7 +17,7 @@ const userDataWithImages = [
     nickname: 'Retri Godz',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/jg.jpg'), // Import the local image
+    image: require('./assets/jg.jpg'), 
   },
   {
     firstName: 'Jovert',
@@ -25,7 +25,7 @@ const userDataWithImages = [
     nickname: 'Bert',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/jd.jpg'), // Import the local image
+    image: require('./assets/jd.jpg'), 
   },
   {
     firstName: 'John Mark',
@@ -33,7 +33,7 @@ const userDataWithImages = [
     nickname: 'Mark',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/jm.jpg'), // Import the local image
+    image: require('./assets/jm.jpg'), 
   },
   {
     firstName: 'James',
@@ -41,7 +41,7 @@ const userDataWithImages = [
     nickname: 'Jamis',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/jn.jpg'), // Import the local image
+    image: require('./assets/jn.jpg'), 
   },
   {
     firstName: 'John Carlo',
@@ -49,7 +49,7 @@ const userDataWithImages = [
     nickname: 'WamPyb',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/jr.jpg'), // Import the local image
+    image: require('./assets/jr.jpg'), 
   },
   {
     firstName: 'Aldwin',
@@ -57,7 +57,7 @@ const userDataWithImages = [
     nickname: 'Kol',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/ah.jpg'), // Import the local image
+    image: require('./assets/ah.jpg'), 
   },
   {
     firstName: 'Rodel Glenn',
@@ -65,7 +65,7 @@ const userDataWithImages = [
     nickname: 'Delro',
     course: 'BSIT',
     year: 'Third Year',
-    image: require('./assets/rj.jpg'), // Import the local image
+    image: require('./assets/rj.jpg'), 
   },
 ];
 
